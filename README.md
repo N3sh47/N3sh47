@@ -1,6 +1,5 @@
 ### <p style="font-family: times, serif; font-size:11pt; font-style:italic">N3sh47 is my street name</font>
-## <p style="font-family: times, serif; font-size:11pt; font-style:italic">Unknown_Techie</font>
-
+### _Unknown Techie_
 
 
 
@@ -12,7 +11,8 @@
 - 📫 How to reach me: Unknown_Techie
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: All-Time N3rd!
--->
+
+<br>
 
 
 
