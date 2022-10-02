@@ -2,19 +2,16 @@
 ## <p style="font-family: times, serif; font-size:11pt; font-style:italic">Unknown_Techie</font>
 
 
-<!--
-**N3sh47/N3sh47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my school project.
+- 🌱 I’m currently learning Information Security and Forensics.
+- 👯 I’m looking to collaborate on Microsoft.
+- 🤔 I’m looking for help with Python High Level Programming.
+- 💬 Ask me about anything related to Tech.
+- 📫 How to reach me: Unknown_Techie
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: All-Time N3rd!
 -->
 
 
