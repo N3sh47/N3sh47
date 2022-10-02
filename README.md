@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3sh47&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3sh47&theme=tokyonight)
