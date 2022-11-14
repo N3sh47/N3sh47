@@ -1,12 +1,12 @@
 # About me <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 
-Hey there! I am a student interested in programming and cyber security. I play CTFs and share <a href="https://N3sh47.github.io">writeups.</a>
+Hey there! I am a student interested in programming and cyber security. I play CTFs and share  <a href="https://N3sh47.github.io" target="_blank">Writeups.</a> 
 <br>
 
 ### Areas of interest: 
-<p align="center">
-  <a href="https://github.com/N3sh47/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Programming;Network+Security;Ethical+Hacking;Web+Development;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+
+   <a href="https://github.com/N3sh47/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Programming;Network+Security;Ethical+Hacking;Web+Development;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+
 
 
 <!--
