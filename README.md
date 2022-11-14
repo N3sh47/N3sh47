@@ -1,6 +1,6 @@
 # About me <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 
-Hey there! I am a student interested in programming and cyber security. I play CTFs, share [writeups](https://N3sh47.github.io).
+Hey there! I am a student interested in programming and cyber security. I play CTFs and share <a href="https://N3sh47.github.io">writeups.</a>
 <br>
 
 ### Areas of interest: 
