@@ -7,7 +7,7 @@ Hey there! I am a student interested in programming and cyber security. I play C
 
    <a href="https://github.com/N3sh47/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Programming;Network+Security;Ethical+Hacking;Web+Development;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
-
+<img align="right" src="developer.gif" alt="Coder GIF" width="420" height="330">
 
 <!--
 - 🔭 I’m currently working on my school project.
